@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pierrick Marquillies
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C/C++/C#
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me : gatueur@gmail.com
 
