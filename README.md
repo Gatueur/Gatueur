@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gatueur
+- 👋 Hi, I’m Pierrick Marquillies
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
