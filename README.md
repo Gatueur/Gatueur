@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Pierrick Marquillies
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C/C++/C#
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me : gatueur@gmail.com
+- 🌱 I’m currently learning Java
+- 📫 How to reach me : p.marquillies@orange.fr
 
 <!---
 Gatueur/Gatueur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
